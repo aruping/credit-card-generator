@@ -32,3 +32,17 @@ The generated credit card numbers are validated using the Luhn algorithm. This a
 ## Usage
 
 The program runs in an infinite loop until it is closed by the user with Ctrl+C. When closed, the last generated card numbers are saved to the file.
+
+# Download
+---
+```
+git clone https://github.com/aruping/credit-card-generator
+```
+
+```
+cd credit-card-generator
+```
+
+```
+python gen.py
+```
